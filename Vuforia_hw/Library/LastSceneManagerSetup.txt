@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Vuforia_HW3.unity
+  isLoaded: 1
+  isActive: 1

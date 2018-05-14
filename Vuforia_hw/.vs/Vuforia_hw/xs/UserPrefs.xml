@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{4C4427C5-E13E-2E1B-5AC0-0EE236A449EB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Wand.cs">
+    <Files>
+      <File FileName="Assets/Wand.cs" Line="173" Column="9" />
+      <File FileName="Assets/CreatePrefab.cs" Line="1" Column="1" />
+      <File FileName="Assets/script.cs" Line="14" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Vuforia__hw PreferredExecutionTarget="Unity.Editor" />
+</Properties>
